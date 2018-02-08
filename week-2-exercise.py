@@ -2,7 +2,10 @@
 # A program that displays Fibonacci numbers using people's names.
 
 '''
-Output of this program:
+Output of Exercise 1:~
+My name is Joan, so the first and last letter of my name (J + N = 10 + 14) give the number 24. The 24th Fibonacci number is 46,368. 
+
+Output of Exercise 2:~
 My surname is Healy
 The first letter H is number 72
 The last letter y is number 121
