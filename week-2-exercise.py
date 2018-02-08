@@ -1,6 +1,16 @@
 # Ian McLoughlin
 # A program that displays Fibonacci numbers using people's names.
 
+'''
+Output of this program:
+My surname is Healy
+The first letter H is number 72
+The last letter y is number 121
+Fibonacci number 193 is 9663391306290450775010025392525829059713
+
+The ord() method returns an integer representing the Unicode code point of the given Unicode character.
+'''
+
 def fib(n):
   """This function returns the nth Fibonacci number."""
   i = 0
