@@ -12,10 +12,10 @@ What is the smallest positive number that is evenly divisible by all of the numb
 counter = 999999999 
 checkList = []
   
-while (counter > 0):
+while counter > 0:
   checkList.clear()
   for i in range(1,21):    
-    if (counter % i == 0):
+    if counter % i == 0:
       checkList.insert(i,1)
       if checkList.count(1) == 20:
         print("answer ", checkList, "counter ", counter) 
