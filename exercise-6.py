@@ -1,5 +1,5 @@
 '''
-Exercise 6 
+Exercise 6 - get factorial of number
 Joan Healy
 5/3/2018
 '''
