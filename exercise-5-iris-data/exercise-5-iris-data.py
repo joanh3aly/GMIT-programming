@@ -6,9 +6,8 @@ Parse CSV data
 
 
 with open('data/iris.data.csv', 'r') as f:
-  for index, line in enumerate(f):
+  for line in f:
     row = line.split(',')[0:4]
     row = list(map(float, row))
     print('{:.1f} {:.1f} {:.1f} {:.1f}'.format(row[0],row[1],row[2],row[3]))
-
 
