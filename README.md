@@ -10,7 +10,7 @@ All code in this repository is written in [Python](http://python.org).
 
 
 
-* ###Week 1
+* Week 1
 This code was written by Dr Ian McLoughlin
 
 * Week 2 - "week-2-exercise"
