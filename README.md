@@ -1,6 +1,3 @@
-GMIT Programming Repo
-======
-
 # GMIT Programming & Scripting Repository
 
 ## Purpose
