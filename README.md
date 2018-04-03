@@ -7,7 +7,8 @@ All code in this repository is written in [Python](http://python.org).
 
 
 
-* **Week 1 - week-1-exercise.py - This code was written by Dr Ian McLoughlin**  
+* **Week 1 - week-1-exercise.py - This code was written by Dr Ian McLoughlin  
+Calculate the nth Fibonacci number**  
 Instructions:  In the video lectures this week we ran an example program that calculated the 30th Fibonacci number. Change the program to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. Take A as the number 1, B as 2, C as 3, and so on. For example, my name is Ian, so I should calculate the 25th Fibonacci number because I is 9 and n is 14, giving 25 in total. Once you calculate the right Fibonacci number for your own name, please post it to the Discussions forum on this page as per my post there.
 
 * **Week 2 - "week-2-exercise.py" - This code was written by Dr Ian McLoughlin  
