@@ -8,7 +8,7 @@ Joan Healy
 def factorial(x):
   # Initialise counter to 1
   counter = 1
-  # Condition whereby if the function's argument is greater than 1 run code
+  # Condition whereby if the function's argument is greater than 0 run code
   if x > 0:
     # Loop from 1 to 1 plus the function's argument 'x', (as we want to start from 1 not the default 0)
     for each in range(1,x+1):
