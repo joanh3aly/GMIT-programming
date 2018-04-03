@@ -19,7 +19,7 @@ Joan Healy
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 '''
 # initialise counter variable with a very large number
-counter = 10000000
+counter = 999999999
 # initialise empty array
 checkList = []
   
@@ -34,7 +34,7 @@ while counter > 0:
       # If no remainder, number is even, so insert 1 into checklist array at index i 
       checkList.insert(i,1)
       # Check to see if the value 1 occurs at every index in the list
-      if checkList.count(1) == 10:
+      if checkList.count(1) == 20:
         # If all indexes are 1, or 'true', then each number represented by i can be evenly divided into the number represented by counter
         print("answer ", checkList, "counter ", counter) 
     else:    
