@@ -3,21 +3,11 @@ Week 5 - Project Euler Problem 5
 Joan Healy
 19/2/2018
 '''
-
 '''
 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 '''
-'''
-Week 5 - Project Euler Problem 5
-Joan Healy
-19/2/2018
-'''
 
-'''
-2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
-What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
-'''
 # initialise counter variable with a very large number
 counter = 999999999
 # initialise empty array
