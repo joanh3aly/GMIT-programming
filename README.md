@@ -7,15 +7,15 @@ All code in this repository is written in [Python](http://python.org).
 
 
 
-* **Week 1 - week-1-exercise.py - This code was written by Dr Ian McLoughlin**
+* **Week 1 - week-1-exercise.py - This code was written by Dr Ian McLoughlin**  
 Instrunctions:  In the video lectures this week we ran an example program that calculated the 30th Fibonacci number. Change the program to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. Take A as the number 1, B as 2, C as 3, and so on. For example, my name is Ian, so I should calculate the 25th Fibonacci number because I is 9 and n is 14, giving 25 in total. Once you calculate the right Fibonacci number for your own name, please post it to the Discussions forum on this page as per my post there.
 
 * **Week 2 - "week-2-exercise" - This code was written by Dr Ian McLoughlin
-Displays Fibonacci numbers using people's names**
+Displays Fibonacci numbers using people's names**  
 Instructions: Change the program to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers. Take A as the number 1, B as 2, C as 3, and so on. For example, my name is Ian, so I should calculate the 25th Fibonacci number because I is 9 and n is 14, giving 25 in total. Once you calculate the right Fibonacci number for your own name, please post it to the Discussions forum on this page as per my post there.
 
 * **Week 3 - "week-3-exercise.py"  
-Collatz conjecture program  **
+Collatz conjecture program**  
 Instructions: Complete the exercise discussed in the Collatz conjecture video by writing a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. At each iteration, the current value of the integer should be printed to the screen. You can specify in your code the starting value of 17. If you wish to enhance your program, have the program ask the user for the integer instead of specifying a value at the start of your code. Add the script to your GitHub repository, as per the instruction in the Assessments section.
 
 * **Week 4 - "exercise-4.py"  
