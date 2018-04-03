@@ -28,7 +28,7 @@ while counter > 0:
         # If all indexes are 1, or 'true', then each number represented by i can be evenly divided into the number represented by counter
         print("answer ", checkList, "counter ", counter) 
     else:    
-      # If not all indexes are true, exit  
+      # If counter is odd, exit  
       break
   # reduce the counter by 1 before going through the next iteration of the loop
   counter = counter-1 
